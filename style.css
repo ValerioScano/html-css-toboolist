@@ -1,0 +1,27 @@
+h1 {
+    display: inline;
+}
+
+.button {
+    display: inline-block;
+}
+
+li::marker {
+    list-style-type: none;
+    padding: left 0;
+    margin-left: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.checkmarks {
+    display: inline-block;
+}
+
+.category {
+    display: inline-block;
+}
