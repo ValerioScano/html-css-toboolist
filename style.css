@@ -1,6 +1,6 @@
 body {
     background-color: rgb(228, 228, 228);
-    margin-top: 0;
+    margin: 0;
 }
 
 #titolo {
@@ -22,10 +22,16 @@ header {
 }
 
 #container-main {
-    background-color:  white ;
     width: 80%;
-    margin: 20px auto;
-    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.container-section {
+    background-color: white
+}
+
+.button {
+    display: inline-block;
 }
 
 ul {
